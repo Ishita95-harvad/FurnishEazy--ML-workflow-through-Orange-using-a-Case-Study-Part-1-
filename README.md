@@ -47,4 +47,4 @@ This project is licensed under the MIT License.
 
 For queries or collaborations, reach out via:
 - Email: bahamniaishita@gmail.com
-- LinkedIn: https://www.linkedin.com/in/-ishitabahamnia-seniorresearchanalyst/
+
