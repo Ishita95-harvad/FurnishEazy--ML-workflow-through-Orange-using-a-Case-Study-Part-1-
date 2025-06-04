@@ -8,7 +8,11 @@ Here is the evaluation image:
 
 ![Evaluation RMSE](https://github.com/Ishita95-harvad/No-code-predictive-analytics--ML-workflow-through-Orange-/blob/main/Evaluation%20RMSE.png)
 
-## No-code-predictive-analytics-with-orange-using-a-Case-Study-Part-2-
+## ## -FurnishEazy--ML-workflow-through-Orange-using-a-Case-Study-Part-2-
+
+# Model Deployment in the Production Environment
+
+![INVENTORY PLANING FOR NEXT MONTH](https://github.com/Ishita95-harvad/No-code-predictive-analytics--ML-workflow-through-Orange-/blob/main/PLAN%20THE%20INVENTORY%20FOR%20NECT%20MONTH.png)
 
 ### Overview
 
