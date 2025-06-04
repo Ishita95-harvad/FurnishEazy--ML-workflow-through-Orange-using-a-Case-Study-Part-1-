@@ -46,13 +46,11 @@ The case study uses a structured dataset containing various features related to 
 Next Steps
 This is Part-1 of the case study. Future sections will dive deeper into model tuning, advanced feature engineering, and real-world deployment strategies.
 
-### Contributors
 
-Ishita (Lead Developer)
 
   
 ### License
 
-This project is licensed under the MIT License.
+This project is licensed under the Analytical Vidhya License.
 
 
