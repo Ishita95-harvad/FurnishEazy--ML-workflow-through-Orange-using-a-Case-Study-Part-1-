@@ -55,8 +55,4 @@ Ishita (Lead Developer)
 
 This project is licensed under the MIT License.
 
-### Contact
-
-For queries or collaborations, reach out via:
-- Email: bahamniaishita@gmail.com
 
