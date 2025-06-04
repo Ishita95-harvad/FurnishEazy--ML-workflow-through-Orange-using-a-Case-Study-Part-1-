@@ -8,7 +8,7 @@ Here is the evaluation image:
 
 ![Evaluation RMSE](https://github.com/Ishita95-harvad/No-code-predictive-analytics--ML-workflow-through-Orange-/blob/main/Evaluation%20RMSE.png)
 
-## ## -FurnishEazy--ML-workflow-through-Orange-using-a-Case-Study-Part-2-
+## -FurnishEazy--ML-workflow-through-Orange-using-a-Case-Study-Part-2-
 
 ### Model Deployment in the Production Environment
 
