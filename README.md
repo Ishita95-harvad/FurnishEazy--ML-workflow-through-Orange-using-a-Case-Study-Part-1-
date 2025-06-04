@@ -43,14 +43,15 @@ The case study uses a structured dataset containing various features related to 
 - Exploratory Data Analysis (EDA): Visualize key insights.
 - Model Building: Apply different ML algorithms.
 - Performance Evaluation: Compare models and refine the approach.
-Next Steps
-This is Part-1 of the case study. Future sections will dive deeper into model tuning, advanced feature engineering, and real-world deployment strategies.
+
+### Next Steps
+This is Part-1 of the case study.
+
+Future sections will dive deeper into model tuning, advanced feature engineering, and real-world deployment strategies.
 
 
 
   
-### License
 
-This project is licensed under the Analytical Vidhya License.
 
 
