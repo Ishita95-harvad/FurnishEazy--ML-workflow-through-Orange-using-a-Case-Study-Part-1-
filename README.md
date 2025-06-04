@@ -1,6 +1,9 @@
 # No-code-predictive-analytics--ML-workflow-through-Orange-
 
 ## -FurnishEazy--ML-workflow-through-Orange-using-a-Case-Study-Part-1
+
+![FurnishEasy](FurnishEazy-.png)
+
 ## No-code-predictive-analytics-with-orange-using-a-Case-Study-Part-2-
 
 ### Overview
