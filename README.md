@@ -2,7 +2,7 @@
 
 ## -FurnishEazy--ML-workflow-through-Orange-using-a-Case-Study-Part-1
 
-# Model Evaluation - Visualization
+### Model Evaluation - Visualization
 
 Here is the evaluation image:
 
@@ -10,7 +10,7 @@ Here is the evaluation image:
 
 ## ## -FurnishEazy--ML-workflow-through-Orange-using-a-Case-Study-Part-2-
 
-# Model Deployment in the Production Environment
+### Model Deployment in the Production Environment
 
 ![INVENTORY PLANING FOR NEXT MONTH](https://github.com/Ishita95-harvad/No-code-predictive-analytics--ML-workflow-through-Orange-/blob/main/PLAN%20THE%20INVENTORY%20FOR%20NECT%20MONTH.png)
 
