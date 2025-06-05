@@ -50,7 +50,7 @@ This is Part-1 of the case study.
 Future sections will dive deeper into model tuning, advanced feature engineering, and real-world deployment strategies.
 
 ## -KeepSafe--ML-workflow-through-Orange-using-a-Case-Study-Part-1
-### Model Visualisation
+### Unsupervised Model Visualisation
 
  Here is the evaluation image1:
 ![Visual1](https://github.com/Ishita95-harvad/No-code-predictive-analytics--ML-workflow-through-Orange-/blob/main/visual1.png)
@@ -58,7 +58,11 @@ Future sections will dive deeper into model tuning, advanced feature engineering
  Here is the evaluation image2:
 ![Visual2](https://github.com/Ishita95-harvad/No-code-predictive-analytics--ML-workflow-through-Orange-/blob/main/visual2.png)
 
+## -KeepSafe--ML-workflow-through-Orange-using-a-Case-Study-Part-2
+### Umsupervised Model Visualisation
 
+ Here is the visualisation image:
+![Part2 Visualisation.png](https://github.com/Ishita95-harvad/No-code-predictive-analytics--ML-workflow-through-Orange-/blob/main/Part2.png)
 
   
 
