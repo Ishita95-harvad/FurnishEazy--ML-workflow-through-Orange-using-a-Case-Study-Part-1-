@@ -57,8 +57,7 @@ Future sections will dive deeper into model tuning, advanced feature engineering
 
  Here is the evaluation image2:
 ![Visual2](https://github.com/Ishita95-harvad/No-code-predictive-analytics--ML-workflow-through-Orange-/blob/main/visual2.png)
-## -KeepSafe--ML-workflow-through-Orange-using-a-Case-Study-Part-2
-### Model Evaluation and Prediction for Next Month 
+
 
 
   
